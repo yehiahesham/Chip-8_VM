@@ -31,3 +31,8 @@ This project is a Chip 8 emulator written in C++. The original purpose of the pr
  http://headerphile.com/sdl2/sdl2-part-0-setting-up-visual-studio-for-sdl2/
  
  
+ 
+ ScreenShot:
+ 
+ ![alt tag](https://github.com/yehiahesham/Chip-8_VM/blob/master/Tank_Game_Screenshot.png)
+
