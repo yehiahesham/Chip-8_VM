@@ -1,9 +1,13 @@
 # Chip-8_VM
 This project is a Chip 8 emulator written in C++. The original purpose of the project was to learn how to write an emulator. it can :
- read the game into a byte array
- emulate registers, program counters and stacks
- fetch an opcode from memory
- decode the next opcode and execute its instructions
+ 
+ ● Read the game into a byte array
+ 
+ ● Emulate registers, program counters and stacks
+ 
+ ● Fetch an opcode from memory
+ 
+ ● Decode the next opcode and execute its instructions
  
 
 #Make Sure...
@@ -23,5 +27,7 @@ This project is a Chip 8 emulator written in C++. The original purpose of the pr
 
 
  http://lazyfoo.net/tutorials/SDL/01_hello_SDL/windows/msvsnet2010u/index.php
+ 
  http://headerphile.com/sdl2/sdl2-part-0-setting-up-visual-studio-for-sdl2/
+ 
  
