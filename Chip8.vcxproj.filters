@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{9d2fd8b1-97ef-4a59-a8b0-b61a6657432f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chip8CPU">
+      <UniqueIdentifier>{143a446b-5266-414f-8f65-b77d60ec87ae}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Chip8CPU.cpp">
+      <Filter>Chip8CPU</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chip8CPU.h">
+      <Filter>Chip8CPU</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="game.ini" />
+  </ItemGroup>
+</Project>
